@@ -1,0 +1,19 @@
+STRINGTABLE Owavedeformer {
+    Owavedeformer "Wave Deformer";
+    ID_OBJECTPROPERTIES "General";
+    WAVE_TWIST_AMOUNT "Twist Amount";
+    WAVE_WIDTH "Width";
+    WAVE_LENGTH "Length";
+    WAVE_FALLOFF "Falloff";
+    WAVE_TEXTURE "Texture";
+    WAVE_TEXTURE_OFFSET "Texture Offset";
+    WAVE_BEND "Bend";
+    ID_ADVANCED "Advanced";
+    WAVE_USE_LENGTH_FALLOFF "Use Length Falloff";
+    WAVE_LENGTH_FALLOFF "Length Falloff";
+    WAVE_USE_MASK "Use Mask";
+    WAVE_MASK "Mask";
+    ID_PREVIEW "Preview";
+    WAVE_PREVIEW "Wave";
+    WAVE_SIZE_PREVIEW "Size";
+}
